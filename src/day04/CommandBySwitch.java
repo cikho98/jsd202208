@@ -28,5 +28,10 @@ public class CommandBySwitch {
                 System.out.println("不合法数据");
         }
 
+        int i =5;
+        for ( ;i < 6; i++) {
+            System.out.println("23");
+        }
+
     }
 }
