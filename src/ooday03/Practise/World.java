@@ -1,2 +1,4 @@
-package ooday03.Practise;public class World {
+package ooday03.Practise;
+
+public class World {
 }

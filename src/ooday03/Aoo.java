@@ -1,2 +1,9 @@
-package ooday03;public class Aoo {
+package ooday03;
+
+public class Aoo {
+    int a;
+
+    void  show(){
+
+    }
 }
